@@ -1,0 +1,5 @@
+/.idea
+*.exe
+SDL2.dll
+/design
+/build
